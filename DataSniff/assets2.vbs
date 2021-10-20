@@ -1,0 +1,1 @@
+wscript.exe \assets.vbs Log.bat
